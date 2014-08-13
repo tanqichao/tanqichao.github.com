@@ -1,18 +1,16 @@
 body {
   margin: 0;
   padding: 0;
-  background: #151515 url("../images/bkg.png") 0 0;
-  color: #eaeaea;
+  background: #000 0 0;
+  color: #6FA8DC;
   font: 16px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family:Microsoft Yahei;
 }
-
-/* General & 'Reset' Stuff */
 
 .container {
   width: 90%;
-  max-width: 600px;
+  max-width: 768px;
   margin: 0 auto;
 }
 
